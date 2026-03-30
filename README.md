@@ -1,1 +1,2 @@
-creating a calculator with html,css & js.
+creating a portfolio with html,css & js.
+alrayed.github.io/simple_portfolio/
